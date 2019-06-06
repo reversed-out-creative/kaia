@@ -3501,7 +3501,7 @@ footer.site-footer .footer-inner a {
     }
 .card_actions .dropdown-menu a{
     display: block;
-    padding: 3px 12px;
+    padding: 3px 9px;
     font-size: 14px;
     line-height: 20px;
     color: #2c3e50;
@@ -3906,4 +3906,8 @@ footer.site-footer .footer-inner a {
         padding: 0px 10px;
         display: inline-block;
     }
+}
+
+b span {
+    font-weight: 700!important;
 }
